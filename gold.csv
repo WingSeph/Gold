@@ -1,0 +1,20 @@
+344fd7atWingtThu, 7 Nov 2019 20:13:57 +1300tfixing npc run away, begin adding lore widgets
+ae5fd62tWingtThu, 7 Nov 2019 18:02:51 +1300tMerge remote-tracking branch 'origin/josh' into chris
+a9ddeb2tPluse01tThu, 7 Nov 2019 14:46:37 +1300tTornado in Day
+0d822f7tWingtThu, 7 Nov 2019 01:26:14 +1300tcameraarea widget now appears and animates on overlap
+e330455tWingtThu, 7 Nov 2019 00:56:01 +1300tcity transition more death checkpoints, switch light working, camera moves, transition to underground
+87272dctWingtWed, 6 Nov 2019 15:29:33 +1300tMerge remote-tracking branch 'origin/josh' into chris
+f87da04tPluse01tWed, 6 Nov 2019 14:18:23 +1300tTweaked sky box in transition
+a30fb38tWingtWed, 6 Nov 2019 05:49:59 +1300tCamera Area now has a widget to display lore
+b82efdftWingtWed, 6 Nov 2019 05:49:20 +1300tMerge remote-tracking branch 'origin/josh' into chris
+01d0edctWingtWed, 6 Nov 2019 05:49:14 +1300tMerge remote-tracking branch 'origin/luke' into chris
+1644cb8tPluse01tTue, 5 Nov 2019 19:40:32 +1300tDecals Transition 1
+4b7c2abtLuketTue, 5 Nov 2019 10:55:32 +1300tMerge branch 'josh' into luke
+102a32dtLuketMon, 4 Nov 2019 16:50:45 +1300tsome corruption in forest
+e8919c2tPluse01tMon, 4 Nov 2019 14:30:55 +1300tTransition City
+b9d6280tWingtMon, 4 Nov 2019 14:10:11 +1300tshockwave now kills player, flings player, created safe zones inside interactive objects
+cb05dd9tWingtMon, 4 Nov 2019 12:39:39 +1300t2nd half
+35c00f6tWingtMon, 4 Nov 2019 12:31:43 +1300t1.7
+a6dc2eftWingtMon, 4 Nov 2019 12:23:12 +1300t1.5 half
+19010aatWingtMon, 4 Nov 2019 11:51:49 +1300t1st half
+abdbc1ftWingtMon, 4 Nov 2019 11:48:57 +1300tInitial commit
